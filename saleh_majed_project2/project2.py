@@ -28,4 +28,3 @@ with open(csv_file_path, 'r') as file:
             smoker=row[6]
         )
         patients_list.append(patient)
-print (patients_list.age())
